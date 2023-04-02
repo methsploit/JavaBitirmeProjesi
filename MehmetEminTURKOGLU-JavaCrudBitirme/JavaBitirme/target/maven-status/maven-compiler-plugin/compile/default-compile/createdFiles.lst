@@ -1,0 +1,6 @@
+com/mehmeteminturkoglu/javabitirme/JavaBitirmeApplication.class
+com/mehmeteminturkoglu/javabitirme/dao/DaoMytable$DaoMytableBuilder.class
+com/mehmeteminturkoglu/javabitirme/controller/DbController.class
+com/mehmeteminturkoglu/javabitirme/dao/DaoMytable.class
+com/mehmeteminturkoglu/javabitirme/repository/MytableRepository.class
+com/mehmeteminturkoglu/javabitirme/service/MytableService.class
